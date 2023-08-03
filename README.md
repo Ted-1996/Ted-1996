@@ -4,7 +4,7 @@
 
 ☕- Iniciante na area de Front-End 
 
-🧙‍♂️- "ão seja tão apressado em julgar os outros, nem os mais sábios conseguem ver o quadro todo."  
+🧙‍♂️- "Não seja tão apressado em julgar os outros, nem os mais sábios conseguem ver o quadro todo."  
       
       
   <a href="https://github.com/rafaballerini">
