@@ -1,6 +1,6 @@
 ### Ola, Eu me chamo Filipe S. Santana, seja bem-vindo ao meu perfil !
 
-📚- Cursando segundo periodo de ciências da computação (Faculdade Unijorge)
+📚- Cursando quinto periodo de ciências da computação (Faculdade Unijorge)
 
 ☕- Iniciante na area de Front-End 
 
